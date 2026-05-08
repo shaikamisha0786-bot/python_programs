@@ -1,4 +1,0 @@
-Hi everyone
- we are learning I/O
-using python.
- i like programming in python.

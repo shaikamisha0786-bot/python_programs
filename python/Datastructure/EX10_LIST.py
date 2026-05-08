@@ -7,7 +7,7 @@ print(len(marks))
 
 student=["amisha",95.0,19,"hyd"]
 print(student)
-student[0]="alex"
+student[0]="akshitha"
 print(student)
 
 #list slicing
